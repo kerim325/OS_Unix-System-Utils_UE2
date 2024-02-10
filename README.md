@@ -1,6 +1,6 @@
 # OS_UE-2
 
-As part of the OS course at the University of Vienna, simplified versions of the programs uname, ps, pstree, killall and statx are to be implemented.
+As part of the OS course at the University of Vienna, simplified versions of the system management utilities uname, ps, pstree, killall and statx are to be implemented.
 
 ## uname
 
